@@ -45,7 +45,7 @@ const Work = () => {
       description: "Details →",
       image:"/images/Prerna’s.png",
       icon: <FaPaintBrush className="text-white bg-black p-2 rounded-full w-8 h-8" />,
-      link: "https://example.com/workshop-artists" // Added placeholder link - replace with actual link
+      link: "https://prerna-gules.vercel.app/" // Added placeholder link - replace with actual link
     }
   ];
 
